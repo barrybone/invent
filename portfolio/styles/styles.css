@@ -1,0 +1,40 @@
+/* reset css */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+header {
+    background-color: rgba(32, 32, 160, 0.329);
+    display: fiex;
+    justify-content: space-between;
+    padding: 20px 80px;
+}
+
+.logo-link {
+    /* text-decoration: none; */
+    font-size: 24px;
+    font-weight: 900;
+    color: navy;
+    /* border: 1px solid red; */
+}
+
+.nav_links{
+    font-size: 20px;
+    color: black;
+    border-bottom: 2px solid red;
+    margin-left: 50px;
+}
+
+.nav_links:hover {
+    border-bottom: 2px solid black;
+    color: red;
+}
+
+.lift-sect {
+    border: 1px solid purple ;
+}
+
+.
